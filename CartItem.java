@@ -1,4 +1,4 @@
-package lib;
+
 public class CartItem {
     private String purchaseCode;
     private String productName;
